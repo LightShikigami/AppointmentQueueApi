@@ -122,3 +122,4 @@ C:\Users\User\source\repos\AppointmentQueueApi\AppointmentApi.test\obj\Debug\net
 C:\Users\User\source\repos\AppointmentQueueApi\AppointmentApi.test\obj\Debug\net8.0\AppointmentApi.test.pdb
 C:\Users\User\source\repos\AppointmentQueueApi\AppointmentApi.test\obj\Debug\net8.0\AppointmentApi.test.genruntimeconfig.cache
 C:\Users\User\source\repos\AppointmentQueueApi\AppointmentApi.test\obj\Debug\net8.0\ref\AppointmentApi.test.dll
+C:\Users\User\source\repos\AppointmentQueueApi\AppointmentApi.test\obj\Debug\net8.0\AppointmentApi.test.sourcelink.json

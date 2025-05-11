@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointmentApi.test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7528391a4271b31481588b174a9df16f73044c87")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointmentApi.test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointmentApi.test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

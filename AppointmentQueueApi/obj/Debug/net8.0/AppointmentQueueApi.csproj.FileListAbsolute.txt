@@ -46,3 +46,4 @@ C:\Users\User\source\repos\AppointmentQueueApi\AppointmentQueueApi\obj\Debug\net
 C:\Users\User\source\repos\AppointmentQueueApi\AppointmentQueueApi\obj\Debug\net8.0\AppointmentQueueApi.pdb
 C:\Users\User\source\repos\AppointmentQueueApi\AppointmentQueueApi\obj\Debug\net8.0\AppointmentQueueApi.genruntimeconfig.cache
 C:\Users\User\source\repos\AppointmentQueueApi\AppointmentQueueApi\obj\Debug\net8.0\ref\AppointmentQueueApi.dll
+C:\Users\User\source\repos\AppointmentQueueApi\AppointmentQueueApi\obj\Debug\net8.0\AppointmentQueueApi.sourcelink.json

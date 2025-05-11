@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AppointmentQueueApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA8E81CC-70FA-4426-99D4-D7D496789266}|AppointmentQueueApi\\AppointmentQueueApi.csproj|c:\\users\\user\\source\\repos\\appointmentqueueapi\\appointmentqueueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8E81CC-70FA-4426-99D4-D7D496789266}|AppointmentQueueApi\\AppointmentQueueApi.csproj|solutionrelative:appointmentqueueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBF71FAD-862D-4ABD-AA64-F96256238BFF}|AppointmentApi.test\\AppointmentApi.test.csproj|c:\\users\\user\\source\\repos\\appointmentqueueapi\\appointmentapi.test\\appointmentapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBF71FAD-862D-4ABD-AA64-F96256238BFF}|AppointmentApi.test\\AppointmentApi.test.csproj|solutionrelative:appointmentapi.test\\appointmentapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8E81CC-70FA-4426-99D4-D7D496789266}|AppointmentQueueApi\\AppointmentQueueApi.csproj|c:\\users\\user\\source\\repos\\appointmentqueueapi\\appointmentqueueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8E81CC-70FA-4426-99D4-D7D496789266}|AppointmentQueueApi\\AppointmentQueueApi.csproj|solutionrelative:appointmentqueueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8E81CC-70FA-4426-99D4-D7D496789266}|AppointmentQueueApi\\AppointmentQueueApi.csproj|c:\\users\\user\\source\\repos\\appointmentqueueapi\\appointmentqueueapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,32 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppointmentApiTest.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentQueueApi\\AppointmentApi.test\\AppointmentApiTest.cs",
               "RelativeDocumentMoniker": "AppointmentApi.test\\AppointmentApiTest.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentQueueApi\\AppointmentApi.test\\AppointmentApiTest.cs",
               "RelativeToolTip": "AppointmentApi.test\\AppointmentApiTest.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwEEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:48:38.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentQueueApi\\AppointmentQueueApi\\Program.cs",
               "RelativeDocumentMoniker": "AppointmentQueueApi\\Program.cs",
@@ -84,8 +80,7 @@
               "RelativeToolTip": "AppointmentQueueApi\\Controllers\\AppointmentController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:32:51.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T12:32:51.148Z"
             },
             {
               "$type": "Document",
@@ -97,8 +92,7 @@
               "RelativeToolTip": "AppointmentQueueApi\\Services\\AppointmentService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:20:44.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T12:20:44.464Z"
             },
             {
               "$type": "Document",
@@ -110,8 +104,7 @@
               "RelativeToolTip": "AppointmentQueueApi\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:06:01.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T12:06:01.36Z"
             },
             {
               "$type": "Document",
@@ -123,8 +116,7 @@
               "RelativeToolTip": "AppointmentQueueApi\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:03:40.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T12:03:40.787Z"
             },
             {
               "$type": "Document",
@@ -136,8 +128,7 @@
               "RelativeToolTip": "AppointmentQueueApi\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:02:12.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T12:02:12.647Z"
             }
           ]
         }
