@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "AppointmentQueueApi.Controllers.AppointmentController",
+    "Method": "CreateAppointment",
+    "RelativePath": "api/Appointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AppointmentQueueApi.DTOs.AppointmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppointmentQueueApi.Controllers.AppointmentController",
+    "Method": "GetTodayAppointments",
+    "RelativePath": "api/Appointment/today",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppointmentQueueApi.Controllers.AppointmentController",
+    "Method": "GetTommorrwAppointments",
+    "RelativePath": "api/Appointment/tomorrow",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

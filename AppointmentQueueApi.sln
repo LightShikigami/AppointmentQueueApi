@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentQueueApi", "AppointmentQueueApi\AppointmentQueueApi.csproj", "{AA8E81CC-70FA-4426-99D4-D7D496789266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentApi.test", "AppointmentApi.test\AppointmentApi.test.csproj", "{CBF71FAD-862D-4ABD-AA64-F96256238BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8E81CC-70FA-4426-99D4-D7D496789266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8E81CC-70FA-4426-99D4-D7D496789266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8E81CC-70FA-4426-99D4-D7D496789266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8E81CC-70FA-4426-99D4-D7D496789266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF71FAD-862D-4ABD-AA64-F96256238BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF71FAD-862D-4ABD-AA64-F96256238BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF71FAD-862D-4ABD-AA64-F96256238BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF71FAD-862D-4ABD-AA64-F96256238BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2388AE-2EF1-4B54-8473-B6200C6068E6}
+	EndGlobalSection
+EndGlobal

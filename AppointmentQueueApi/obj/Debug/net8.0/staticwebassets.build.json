@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TQclDepjp1fI2vweSPbJNhOUeP9IH4LfY5yy5jc0Lpc=",
+  "Source": "AppointmentQueueApi",
+  "BasePath": "_content/AppointmentQueueApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
